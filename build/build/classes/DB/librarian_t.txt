@@ -1,0 +1,8 @@
+1:password:John:Doe:johnDoe@gmail.com:017-2092691:Kuala Lumpur
+2:PASS:Rosli:Dobbi:Rosli@gmail.com:013-2618271:Perlis
+3:123:Steve:Erwin:crochunter@gmail.com:013-3092173:Perak
+4:test:Lewis:Binski:foodLover@gmail.com:013-13202188:Kuala Lumpur
+5:tea:Ceylon:Dover:tea@gmail.com:013-11212389:Kuala Lumpur
+6:Test:Alan D:Baker:alan@gmail.com:013-3092103:Melaka
+7:Password:John Paul:Jones:jpj@gmail.com:013-309 2691:Pahang
+

@@ -1,0 +1,7 @@
+1:John:Doe:johnDoe@gmail.com:017-2092691:Kuala Lumpur
+2:Mark:Urban:Mark@gmail.com:017-0129231:Kuala Lumpur
+3:Isaac:Asimov:Isaac@gmail.com:013-0192819:Johor
+4:Erwin:Rommel:desertFox@gmail.com:013-212391238:Pahang
+5:William:Wallace:freedom@gmail.com:013-30212314:Johor
+6:David:Davidson:Davidson@gmail.com:013-309 2691:Kuala Lumpur
+7:test:test:test@gmail.com:013-102313:Kuala Lumpur
